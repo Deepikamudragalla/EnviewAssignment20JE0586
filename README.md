@@ -8,8 +8,7 @@ Please refer to Documentation.pdf for more details
 
 ### Prerequisites
 
-- Python installed
-- PostgreSQL server installed and running or you can use a remote PostgreSQL server.
+- NodeJS installed
 
 ### Installation Steps
 
