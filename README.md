@@ -1,9 +1,5 @@
 # EnviewAssignment20JE0586
 
-This project implements a simple RESTful API for managing a library system using Django and PostgreSQL.
-
-Please refer to Documentation.pdf for more details
-
 ## Setup Instructions
 
 ### Prerequisites
